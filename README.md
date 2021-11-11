@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @starbeamy
 - 👀 I’m interested in many things.
-- 🌱 I’m currently learning ruby on rails.
+- 🌱 I’m currently learning ....
 - 💞️ I’m looking to collaborate on getting started.
 - 📫 How to reach me ...
 
